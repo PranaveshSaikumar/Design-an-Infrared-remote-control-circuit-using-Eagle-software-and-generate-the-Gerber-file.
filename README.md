@@ -44,7 +44,7 @@ When a button on the IR remote is pressed, it sends a modulated 38kHz IR signal 
 ## EXPECTED OUTPUT:
 ### Schematic diagram
 
-<img width="143" height="223" alt="image" src="https://github.com/user-attachments/assets/18dadf20-742f-4bc6-bd14-59dc6e236b3c" />
+<img width="1642" height="890" alt="image" src="https://github.com/user-attachments/assets/e70a2c3f-f852-47aa-bda9-14174d126c25" />
  
 ### Layout diagram
 
